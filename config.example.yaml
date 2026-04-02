@@ -1,0 +1,21 @@
+app:
+  base_url: "https://api.x.com/2"
+  request_timeout_seconds: 20
+  connect_timeout_seconds: 5
+  external_metadata_timeout_seconds: 10
+  max_results_per_query: 10
+  max_pages_per_query: 1
+  fetch_external_metadata: false
+  user_agent: "x-ai-job-monitor/0.1"
+
+queries:
+  - name: "chinese-ai-hiring"
+    query: '("AI工程师" OR "人工智能工程师" OR "大模型工程师" OR "机器学习工程师" OR "算法工程师" OR "NLP工程师" OR "机器人工程师" OR "机器人算法工程师" OR "SLAM工程师" OR "运动控制工程师" OR "机器人数据采集" OR "机器人运营" OR "机器人会话逻辑" OR "机器人运维" OR "具身智能" OR "人形机器人" OR "机械臂" OR "AIGC" OR "大模型" OR "人工智能" OR "机器人") (招聘 OR 招人 OR 岗位 OR 内推 OR 社招 OR 诚聘 OR HC OR JD OR 投递) lang:zh has:links -is:retweet -is:reply'
+
+output:
+  raw_jsonl_path: "data/raw_posts.jsonl"
+  csv_path: "data/latest_jobs.csv"
+  markdown_path: "reports/latest_jobs.md"
+
+state:
+  path: "data/state/state.json"
