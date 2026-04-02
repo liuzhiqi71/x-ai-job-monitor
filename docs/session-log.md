@@ -81,3 +81,9 @@
 - Commands: `apply_patch` to update `.github/workflows/monitor.yml`, `README.md`, and the session log
 - Result: The scheduled workflow now uses `0 0 * * 1`, which runs at Monday 00:00 UTC and Monday 08:00 Beijing time; commit messages were updated to say `weekly`.
 - Next: Run the local test suite and secret scan, then push the workflow change so GitHub picks up the new weekly schedule.
+
+## 2026-04-02 13:46
+- Did: Investigated the failed GitHub Actions runs, found the third-party Gitleaks wrapper was failing to parse its bundled config on GitHub-hosted runners, and switched both workflows to the official `gitleaks/gitleaks-action`.
+- Commands: `gh run view 23885941411 --log -R liuzhiqi71/x-ai-job-monitor`, `gh run view 23885936388 --log -R liuzhiqi71/x-ai-job-monitor`, `apply_patch` to update `.github/workflows/ci.yml`, `.github/workflows/monitor.yml`, and the session log
+- Result: The failure root cause is isolated to the GitHub-side Gitleaks action wrapper rather than any actual secret leak; local secret scans and local Gitleaks checks still pass cleanly.
+- Next: Re-run local verification, push the workflow fix, and trigger the weekly monitor workflow again to confirm the public repo is green end to end.

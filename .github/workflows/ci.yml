@@ -32,8 +32,6 @@ jobs:
         run: python scripts/check_secrets.py .
 
       - name: Run Gitleaks
-        uses: DariuszPorowski/github-action-gitleaks@v2
-        with:
-          fail: true
-          redact: true
-
+        uses: gitleaks/gitleaks-action@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
