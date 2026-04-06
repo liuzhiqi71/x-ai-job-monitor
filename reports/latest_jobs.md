@@ -1,8 +1,23 @@
 # Latest AI Job Leads From X
 
-*Generated at: 2026-04-02 05:47 UTC*
+*Generated at: 2026-04-06 00:47 UTC*
 
-*Total leads: 3*
+*Total leads: 4*
+
+## RemoteCat 🐱 | Remote & Web3 Hiring
+
+- Query: `chinese-ai-hiring`
+- Posted at: `2026-04-05T06:01:51.000Z`
+- Tweet: [2040671235546234933](https://x.com/workcat2026/status/2040671235546234933)
+- External URL: https://www.remotecat.work/jobs/26850
+- External title: N/A
+- Text: 🚀 招聘｜AIGC内容运营（远程协作｜视频号 / 知识库与内容协同｜7K-10K）
+🌍 远程工作
+💰 CNY 7000-10000/月
+
+👉 https://t.co/bhLYCmLf2K
+
+#远程工作 #RemoteWork #招聘
 
 ## Dash
 
