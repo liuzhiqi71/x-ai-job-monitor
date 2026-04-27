@@ -1,8 +1,35 @@
 # Latest AI Job Leads From X
 
-*Generated at: 2026-04-20 00:51 UTC*
+*Generated at: 2026-04-27 00:54 UTC*
 
-*Total leads: 4*
+*Total leads: 6*
+
+## TGweb3
+
+- Query: `chinese-ai-hiring`
+- Posted at: `2026-04-26T14:53:59.000Z`
+- Tweet: [2048415299406614935](https://x.com/TGweb3333/status/2048415299406614935)
+- External URL: https://github.com/Shubhamsaboo/awesome-llm-apps
+- External title: N/A
+- Text: 想 90 天冲一个年薪 20 万美金的 AI 工程师岗位，我不会花时间读学位。
+
+下面这 10 个 GitHub 开源项目，比学历管用多了。
+
+1. awesome-llm-apps
+生产级 AI 项目的实战库。RAG、智能体、多模态应有尽有，代码直接能跑。10.6 万星，够说明问题了。
+→ https://t.co/CnhGNqFL1l
+
+2. LangChain
+做 AI https://t.co/zU1KSO7FdR
+
+## 人人都是产品经理
+
+- Query: `chinese-ai-hiring`
+- Posted at: `2026-04-21T04:24:29.000Z`
+- Tweet: [2046444942025781281](https://x.com/woshipm/status/2046444942025781281)
+- External URL: https://www.woshipm.com/ai/6381170.html
+- External title: N/A
+- Text: AI大事件：AI工程师月薪20804元，招聘市场最抢手、Kimi K2.6发布并开源、谷歌设立”哲学家”岗位，探索AI世界模型 https://t.co/DQbq7wUctq
 
 ## RemoteCat 🐱 | Remote & Web3 Hiring
 
