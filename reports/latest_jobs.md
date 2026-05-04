@@ -1,8 +1,24 @@
 # Latest AI Job Leads From X
 
-*Generated at: 2026-04-27 00:54 UTC*
+*Generated at: 2026-05-04 00:57 UTC*
 
-*Total leads: 6*
+*Total leads: 7*
+
+## 付费资源分享
+
+- Query: `chinese-ai-hiring`
+- Posted at: `2026-05-03T12:30:27.000Z`
+- Tweet: [2050915892679389557](https://x.com/li18875786/status/2050915892679389557)
+- External URL: https://pan.quark.cn/s/582cd18fb4cc
+- External title: N/A
+- Text: 慕课实战 - Vue3+Vite+Vant-UI 开发双端招聘APP
+https://t.co/zPcT3K1xkk
+一本电子书，夫妻双休功
+https://t.co/1laRZmmWDC
+2026大模型Agent开发-系统课
+https://t.co/RAnZNMq44d
+40部央视荐读书单
+https://t.co/JJUyJXInNF
 
 ## TGweb3
 
