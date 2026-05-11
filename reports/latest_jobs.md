@@ -1,8 +1,39 @@
 # Latest AI Job Leads From X
 
-*Generated at: 2026-05-04 00:57 UTC*
+*Generated at: 2026-05-11 01:01 UTC*
 
-*Total leads: 7*
+*Total leads: 9*
+
+## xunchang
+
+- Query: `chinese-ai-hiring`
+- Posted at: `2026-05-10T14:20:26.000Z`
+- Tweet: [2053480286521081966](https://x.com/xunxunxm/status/2053480286521081966)
+- External URL: https://e.tb.cn/h.iAmvMOP7L5BdyXT?tk=CUM05pgHkkr
+- External title: N/A
+- Text: 🔥 普通人的 AI 进阶捷径！
+拿下企业认可的人工智能应用工程师证书，含考前资料 + 1V1 服务，零基础也能轻松拿证。
+包下证，不下全额退，工信部可查询！
+
+不管是求职加分、岗位晋升，还是项目竞标，都是硬核筹码！
+🔗 直达链接：[https://t.co/uIAm7pPykk]
+#china #Ai技能 #人工智能 https://t.co/Hxf7780pCa
+
+## 黄知行
+
+- Query: `chinese-ai-hiring`
+- Posted at: `2026-05-10T05:39:33.000Z`
+- Tweet: [2053349200092692824](https://x.com/Devin_Huangx/status/2053349200092692824)
+- External URL: https://github.com/Shubhamsaboo/awesome-llm-apps
+- External title: N/A
+- Text: 如果我要找年薪30万美金的AI工程师岗，不会去读ai学位，而是学习5类GitHub项目：
+RAG应用：awesome-llm-apps https://t.co/4qvpC7cQWB⁠
+Agent框架：LangChain 
+多智能体：CrewAI
+本地模型：Ollama
+工程化：AI Agents for Beginners
+https://t.co/gVkSxoeIlb⁠
+AI岗位拼的不是证书，而是把模型做成产品
 
 ## 付费资源分享
 
