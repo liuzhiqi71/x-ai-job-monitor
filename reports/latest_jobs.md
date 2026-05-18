@@ -1,8 +1,49 @@
 # Latest AI Job Leads From X
 
-*Generated at: 2026-05-11 01:01 UTC*
+*Generated at: 2026-05-18 01:03 UTC*
 
-*Total leads: 9*
+*Total leads: 13*
+
+## CH传媒科技（HR亚瑟）
+
+- Query: `chinese-ai-hiring`
+- Posted at: `2026-05-17T03:10:43.000Z`
+- Tweet: [2055848461355094025](https://x.com/faya55104677/status/2055848461355094025)
+- External URL: https://daphnewhit.github.io/ch-media-careers/
+- External title: N/A
+- Text: 🔥 CH传媒科技 招聘热招中 🤖 AI工程师 / Go开发 / 前端 / 测试 📋 产品经理 / UI设计 / 运营 📍 远程办公 · 薪资open 📩 投简历：@foya991 🔗 官网：https://t.co/6ReVtndiDR #招聘 #远程工作 #AI
+
+## CH传媒科技（HR亚瑟）
+
+- Query: `chinese-ai-hiring`
+- Posted at: `2026-05-16T03:09:24.000Z`
+- Tweet: [2055485741061509243](https://x.com/faya55104677/status/2055485741061509243)
+- External URL: https://daphnewhit.github.io/ch-media-careers/
+- External title: N/A
+- Text: 🔥 CH传媒科技 招聘热招中 🤖 AI工程师 / Go开发 / 前端 / 测试 📋 产品经理 / UI设计 / 运营 📍 远程办公 · 薪资open 📩 投简历：@foya991 🔗 官网：https://t.co/6ReVtndiDR #招聘 #远程工作 #AI
+
+## CH传媒科技（HR亚瑟）
+
+- Query: `chinese-ai-hiring`
+- Posted at: `2026-05-15T13:47:14.000Z`
+- Tweet: [2055283867867885877](https://x.com/faya55104677/status/2055283867867885877)
+- External URL: https://daphnewhit.github.io/ch-media-careers/
+- External title: N/A
+- Text: 🔥 CH传媒科技 招聘热招中 🤖 AI工程师 / Go开发 / 前端 / 测试 📋 产品经理 / UI设计 / 运营 📍 远程办公 · 薪资open 📩 投简历：@foya991 🔗 官网：https://t.co/6ReVtndiDR #招聘 #远程工作 #AI
+
+## Daily AI Signals · 每日AI/web3前沿资讯
+
+- Query: `chinese-ai-hiring`
+- Posted at: `2026-05-12T13:12:57.000Z`
+- Tweet: [2054188078370279694](https://x.com/DougouBo0905/status/2054188078370279694)
+- External URL: https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/
+- External title: N/A
+- Text: GM昨天裁掉600名IT员工，同时开始招聘AI工程师。
+不是缩减规模——是直接换人。
+他们要的是AI原生开发、AI模型训练、提示工程师，传统IT岗位在这家公司已经没有未来。 OpenAI
+连造车的都开始换血了，你还觉得自己那个行业安全吗？
+#AI革命 #科技 #就业趋势 #未来工作
+https://t.co/Oya0KgitJR
 
 ## xunchang
 
