@@ -1,8 +1,38 @@
 # Latest AI Job Leads From X
 
-*Generated at: 2026-06-01 01:12 UTC*
+*Generated at: 2026-06-08 01:11 UTC*
 
-*Total leads: 19*
+*Total leads: 21*
+
+## 龙哥来了
+
+- Query: `chinese-ai-hiring`
+- Posted at: `2026-06-07T02:28:30.000Z`
+- Tweet: [2063447980813045872](https://x.com/binzhlng1/status/2063447980813045872)
+- External URL: https://x.com/AndrewYNg/status/2061477558693384395
+- External title: N/A
+- Text: 吴恩达发声了：AI前沿部署工程师（FDE）这种新岗位现在越来越常见，说明AI工程师的真实需求其实远超大家想象。
+
+他还强调，AI并不会导致大规模失业，反而在创造更多高价值的机会和岗位。
+
+真正在第一线的人，看得比我们清楚多了。
+
+https://t.co/5dYsEQ4kpO
+
+## 大番茄
+
+- Query: `chinese-ai-hiring`
+- Posted at: `2026-06-06T09:20:27.000Z`
+- Tweet: [2063189262678512050](https://x.com/Barisdilmac8/status/2063189262678512050)
+- External URL: https://polymarket.com/zh/@easyclap?r=PM333
+- External title: N/A
+- Text: 十年时间里，他靠着时薪16美元的岗位，常年看管闲置楼宇。某次通宵值班，投入900美元，最终资产涨到187,000美元，自始至终没有亲自编写代码。
+
+他没有组建工程师团队，而是短时租赁300个AI工程师，由Claude Opus 4.8统一管控整批算力。
+
+证明：https://t.co/Ej6IyZwLu4
+
+背后的实际过程如下。 https://t.co/QbIDtuZezn https://t.co/uqFhWMDJA3
 
 ## TweetPilot
 
