@@ -1,8 +1,22 @@
 # Latest AI Job Leads From X
 
-*Generated at: 2026-06-15 01:15 UTC*
+*Generated at: 2026-06-22 01:15 UTC*
 
-*Total leads: 21*
+*Total leads: 22*
+
+## Tw93
+
+- Query: `chinese-ai-hiring`
+- Posted at: `2026-06-19T06:08:08.000Z`
+- Tweet: [2067851910464565374](https://x.com/HiTw93/status/2067851910464565374)
+- External URL: https://x.com/HiTw93/status/2032091246588518683
+- External title: N/A
+- Text: 挺有趣，听朋友说我这几篇文章成为了现在 AI 岗位面试准备必读的文章，那我来汇总一下给大伙好啦，希望有帮助，当然也祝福最近从传统岗位工程师转型成 AI 岗位的小伙伴找到自己满意的工作。
+
+1.  你不知道的 Claude Code：架构、治理与工程实践 
+https://t.co/jaC8lHHPVx
+
+2. 你不知道的
 
 ## 龙哥来了
 

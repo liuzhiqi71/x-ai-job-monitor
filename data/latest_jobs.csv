@@ -1,4 +1,10 @@
 tweet_id,tweet_url,author_username,author_name,created_at,lang,text,query_name,matched_urls,external_url,external_final_url,external_title,external_description,public_metrics,raw_source,collected_at
+2067851910464565374,https://x.com/HiTw93/status/2067851910464565374,HiTw93,Tw93,2026-06-19T06:08:08.000Z,zh,"挺有趣，听朋友说我这几篇文章成为了现在 AI 岗位面试准备必读的文章，那我来汇总一下给大伙好啦，希望有帮助，当然也祝福最近从传统岗位工程师转型成 AI 岗位的小伙伴找到自己满意的工作。
+
+1.  你不知道的 Claude Code：架构、治理与工程实践 
+https://t.co/jaC8lHHPVx
+
+2. 你不知道的",chinese-ai-hiring,"[""https://x.com/HiTw93/status/2032091246588518683""]",https://x.com/HiTw93/status/2032091246588518683,,,,"{""retweet_count"": 573, ""reply_count"": 179, ""like_count"": 2630, ""quote_count"": 25, ""bookmark_count"": 4546, ""impression_count"": 263705}",x_recent_search,2026-06-22T01:15:29Z
 2063447980813045872,https://x.com/binzhlng1/status/2063447980813045872,binzhlng1,龙哥来了,2026-06-07T02:28:30.000Z,zh,"吴恩达发声了：AI前沿部署工程师（FDE）这种新岗位现在越来越常见，说明AI工程师的真实需求其实远超大家想象。
 
 他还强调，AI并不会导致大规模失业，反而在创造更多高价值的机会和岗位。
