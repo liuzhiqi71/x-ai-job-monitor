@@ -1,4 +1,12 @@
 tweet_id,tweet_url,author_username,author_name,created_at,lang,text,query_name,matched_urls,external_url,external_final_url,external_title,external_description,public_metrics,raw_source,collected_at
+2071105143148528109,https://x.com/DeepSeek_club/status/2071105143148528109,DeepSeek_club,深求社区（DeepSeek.club）,2026-06-28T05:35:20.000Z,zh,"【 全员扩编一倍！从 DeepSeek 招聘清单，读懂国产大模型全栈布局野心】
+
+DeepSeek 最新放出的招聘清单显示，团队计划将全员规模直接翻倍扩编。
+
+从 Agent 深度学习算法、基础设施工程师，到专门设立的 Agent 策略产品经理，全面覆盖数据评测与底层调度。
+
+🔗 详情：https://t.co/RxclHN5qPN https://t.co/wugDN0nsKV",chinese-ai-hiring,"[""https://deepseek.club/topic/2793"", ""https://x.com/DeepSeek_club/status/2071105143148528109/photo/1""]",https://deepseek.club/topic/2793,,,,"{""retweet_count"": 0, ""reply_count"": 0, ""like_count"": 0, ""quote_count"": 0, ""bookmark_count"": 0, ""impression_count"": 62}",x_recent_search,2026-06-29T01:09:22Z
+2070401666386739575,https://x.com/x001fx/status/2070401666386739575,x001fx,中美财经密探,2026-06-26T06:59:58.000Z,zh,同样进顶尖 AI 公司当工程师，中国只要 1.6 年经验，美国却得熬 5.5 年。这是 Epoch AI 扒完 DeepSeek、MiniMax、月之暗面、https://t.co/t0esCvnGHx、字节、阿里六家公司 1604 份招聘启事得出的结论。 https://t.co/rs1Brl80Hf,chinese-ai-hiring,"[""https://chat.z.ai/"", ""https://x.com/x001fx/status/2070401666386739575/photo/1""]",https://chat.z.ai/,,,,"{""retweet_count"": 1, ""reply_count"": 1, ""like_count"": 0, ""quote_count"": 0, ""bookmark_count"": 0, ""impression_count"": 80}",x_recent_search,2026-06-29T01:09:22Z
 2067851910464565374,https://x.com/HiTw93/status/2067851910464565374,HiTw93,Tw93,2026-06-19T06:08:08.000Z,zh,"挺有趣，听朋友说我这几篇文章成为了现在 AI 岗位面试准备必读的文章，那我来汇总一下给大伙好啦，希望有帮助，当然也祝福最近从传统岗位工程师转型成 AI 岗位的小伙伴找到自己满意的工作。
 
 1.  你不知道的 Claude Code：架构、治理与工程实践 

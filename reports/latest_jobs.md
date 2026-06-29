@@ -1,8 +1,32 @@
 # Latest AI Job Leads From X
 
-*Generated at: 2026-06-22 01:15 UTC*
+*Generated at: 2026-06-29 01:09 UTC*
 
-*Total leads: 22*
+*Total leads: 24*
+
+## 深求社区（DeepSeek.club）
+
+- Query: `chinese-ai-hiring`
+- Posted at: `2026-06-28T05:35:20.000Z`
+- Tweet: [2071105143148528109](https://x.com/DeepSeek_club/status/2071105143148528109)
+- External URL: https://deepseek.club/topic/2793
+- External title: N/A
+- Text: 【 全员扩编一倍！从 DeepSeek 招聘清单，读懂国产大模型全栈布局野心】
+
+DeepSeek 最新放出的招聘清单显示，团队计划将全员规模直接翻倍扩编。
+
+从 Agent 深度学习算法、基础设施工程师，到专门设立的 Agent 策略产品经理，全面覆盖数据评测与底层调度。
+
+🔗 详情：https://t.co/RxclHN5qPN https://t.co/wugDN0nsKV
+
+## 中美财经密探
+
+- Query: `chinese-ai-hiring`
+- Posted at: `2026-06-26T06:59:58.000Z`
+- Tweet: [2070401666386739575](https://x.com/x001fx/status/2070401666386739575)
+- External URL: https://chat.z.ai/
+- External title: N/A
+- Text: 同样进顶尖 AI 公司当工程师，中国只要 1.6 年经验，美国却得熬 5.5 年。这是 Epoch AI 扒完 DeepSeek、MiniMax、月之暗面、https://t.co/t0esCvnGHx、字节、阿里六家公司 1604 份招聘启事得出的结论。 https://t.co/rs1Brl80Hf
 
 ## Tw93
 
