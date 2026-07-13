@@ -1,8 +1,22 @@
 # Latest AI Job Leads From X
 
-*Generated at: 2026-07-06 00:55 UTC*
+*Generated at: 2026-07-13 03:27 UTC*
 
-*Total leads: 24*
+*Total leads: 25*
+
+## Joe
+
+- Query: `chinese-ai-hiring`
+- Posted at: `2026-07-07T17:50:04.000Z`
+- Tweet: [2074551538014409025](https://x.com/stevenjoe0906/status/2074551538014409025)
+- External URL: https://eleduck.com/posts/qzfqma
+- External title: N/A
+- Text: 朋友公司招聘，帮发
+
+岗位一：机器人仿真与控制工程师
+岗位二：机器人测试工程师
+
+详情及简历投递方式见：https://t.co/uWzriSINoJ
 
 ## 深求社区（DeepSeek.club）
 
