@@ -1,8 +1,17 @@
 # Latest AI Job Leads From X
 
-*Generated at: 2026-07-13 03:27 UTC*
+*Generated at: 2026-07-20 03:34 UTC*
 
-*Total leads: 25*
+*Total leads: 26*
+
+## MeiHua TouTiao
+
+- Query: `chinese-ai-hiring`
+- Posted at: `2026-07-16T04:20:58.000Z`
+- Tweet: [2077609413318254729](https://x.com/MeiHuaTouTiao/status/2077609413318254729)
+- External URL: https://meihuatoutiao.com/news/2026/07/musk-ai-direct-binary-coding-jobs-2026/
+- External title: N/A
+- Text: 马斯克在xAI员工会议上预测，人工智能可能在2026年底前绕过传统编码流程，直接生成二进制程序。现有就业数据表明，重复性编程岗位可能继续收缩，但软件设计、质量控制、安全审核和系统管理职位仍有增长空间。程序员职业更可能持续转型，而非在某个时间点整体消失。 https://t.co/dltVleT3s3
 
 ## Joe
 
