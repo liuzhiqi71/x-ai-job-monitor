@@ -1,8 +1,23 @@
 # Latest AI Job Leads From X
 
-*Generated at: 2026-07-27 03:34 UTC*
+*Generated at: 2026-08-03 03:25 UTC*
 
-*Total leads: 26*
+*Total leads: 27*
+
+## 智械前线｜MechaFront
+
+- Query: `chinese-ai-hiring`
+- Posted at: `2026-08-02T13:34:48.000Z`
+- Tweet: [2083909383252005340](https://x.com/sandra526347390/status/2083909383252005340)
+- External URL: https://www.agilityrobotics.com/content/agility-opens-new-fremont-facility-to-accelerate-physical-ai-development
+- External title: N/A
+- Text: 【机器人公司开始大量招募AI人才】
+
+Agility计划招聘近200名AI、软件工程和现场运营人员。
+
+这说明机器人行业的人才需求，已经从传统机械工程扩展到机器学习、数据采集和现场交付。
+
+来源： https://t.co/1DDoI3Pn8n
 
 ## MeiHua TouTiao
 
