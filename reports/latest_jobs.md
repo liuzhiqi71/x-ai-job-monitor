@@ -1,8 +1,61 @@
 # Latest AI Job Leads From X
 
-*Generated at: 2026-08-03 03:25 UTC*
+*Generated at: 2026-08-10 02:06 UTC*
 
-*Total leads: 27*
+*Total leads: 30*
+
+## TT3Labs | 远程招聘 Remote Jobs
+
+- Query: `chinese-ai-hiring`
+- Posted at: `2026-08-10T01:43:21.000Z`
+- Tweet: [2086629444697931791](https://x.com/TT3Labs/status/2086629444697931791)
+- External URL: https://tt3labs.com/
+- External title: N/A
+- Text: 📢 TT3Labs 本周推荐远程岗位（8.10）
+
+销售经理
+产品经理
+金融产品经理
+Android 开发工程师
+大模型 API 平台销售专家
+大数据运维
+数据运营
+韩语客服
+
+均为平台上用人方发布，简历直达用人方。
+投递 👉 https://t.co/w9Kom6cCBm
+
+#远程工作 #远程招聘 #RemoteJobs #Web3Jobs #CryptoJobs https://t.co/vXaXdZVLlD
+
+## Yzz
+
+- Query: `chinese-ai-hiring`
+- Posted at: `2026-08-08T03:18:54.000Z`
+- Tweet: [2085928714232062212](https://x.com/SmallBlank/status/2085928714232062212)
+- External URL: https://x.com/i/article/2085922532390313984
+- External title: N/A
+- Text: FDE 全解析：2篇深度访谈，10 个问题讲透 AI 时代最火的工程师岗位。
+
+FDE 到底是什么、和咨询外包有什么区别、什么人适合做、公司该怎么组建团队，以及它为什么会在 AI 时代突然爆发。
+
+如果你正在研、考虑做 FDE，或者你是 $PLTR 的投资者，这 10 个问题或许值得好好看看。 https://t.co/FmfM3toW45
+
+## 王峰Anc🔶OP_CAT
+
+- Query: `chinese-ai-hiring`
+- Posted at: `2026-08-07T11:52:29.000Z`
+- Tweet: [2085695571571122686](https://x.com/wangfenganc/status/2085695571571122686)
+- External URL: https://github.com/Shubhamsaboo/awesome-llm-apps
+- External title: N/A
+- Text: 90 天冲一份高薪 AI 工程师岗位，先别急着报课。
+
+把这 5 个 GitHub 仓库跑通，你会比只会调用 API 的人多一套真正能交付的能力。
+
+1⃣awesome-llm-apps
+从 RAG、智能体到多模态应用，先挑一个完整项目复刻，再改成自己的版本。
+https://t.co/xX0dDjJLtL
+
+2⃣LangChain https://t.co/MzWJR0mJim https://t.co/oHDKwiKFcC
 
 ## 智械前线｜MechaFront
 
