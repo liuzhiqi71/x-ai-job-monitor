@@ -1,8 +1,23 @@
 # Latest AI Job Leads From X
 
-*Generated at: 2026-08-10 02:06 UTC*
+*Generated at: 2026-08-17 01:35 UTC*
 
-*Total leads: 30*
+*Total leads: 31*
+
+## yibie
+
+- Query: `chinese-ai-hiring`
+- Posted at: `2026-08-15T05:55:56.000Z`
+- Tweet: [2088504946530619575](https://x.com/yibie/status/2088504946530619575)
+- External URL: https://www.deeplearning.ai/
+- External title: N/A
+- Text: AI 工程最重要的技能是什么？Andrew Ng 团队分析了上万条招聘、访谈了几十位专家，压成四样。
+
+https://t.co/Tn1HicJFIx 创始人 Andrew Ng：工程师不该再等别人给像素级设计——产品 sense 正在变成入场券。
+
+The AI Engineering Skills Map：Andrew Ng 的四技能地图
+
+Andrew
 
 ## TT3Labs | 远程招聘 Remote Jobs
 
