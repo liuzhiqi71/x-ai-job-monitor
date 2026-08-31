@@ -1,8 +1,30 @@
 # Latest AI Job Leads From X
 
-*Generated at: 2026-08-24 01:37 UTC*
+*Generated at: 2026-08-31 04:44 UTC*
 
-*Total leads: 31*
+*Total leads: 32*
+
+## TT3Labs | 远程招聘 Remote Jobs
+
+- Query: `chinese-ai-hiring`
+- Posted at: `2026-08-31T01:34:15.000Z`
+- Tweet: [2094237296455266435](https://x.com/TT3Labs/status/2094237296455266435)
+- External URL: https://TT3Labs.com
+- External title: N/A
+- Text: 📢 TT3Labs 本周精选远程岗位（8.31）
+
+Go 合约架构师
+英语社群客服
+AI 风控算法工程师
+Mini App 开发工程师
+西语助理
+SEO 内容
+港澳台 KOL BD
+初级广告投放专员
+
+均为平台上用人方发布，简历直达用人方。
+投递 👉 https://t.co/jNsQCs1ymO
+#远程工作 #远程招聘 #RemoteJobs #Web3Jobs #CryptoJobs https://t.co/dzw2MVrjBt
 
 ## yibie
 
