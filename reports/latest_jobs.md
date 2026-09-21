@@ -1,8 +1,17 @@
 # Latest AI Job Leads From X
 
-*Generated at: 2026-09-14 04:13 UTC*
+*Generated at: 2026-09-21 04:13 UTC*
 
-*Total leads: 32*
+*Total leads: 33*
+
+## 空格.space
+
+- Query: `chinese-ai-hiring`
+- Posted at: `2026-09-20T15:16:53.000Z`
+- Tweet: [2101692078984220718](https://x.com/kongge_space/status/2101692078984220718)
+- External URL: https://x.com/i/article/2101565502740942848
+- External title: N/A
+- Text: 最科学的求职 AI 产品经理指南 https://t.co/4SA9UtuybT
 
 ## TT3Labs | 远程招聘 Remote Jobs
 
