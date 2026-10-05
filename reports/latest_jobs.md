@@ -1,8 +1,26 @@
 # Latest AI Job Leads From X
 
-*Generated at: 2026-09-28 04:38 UTC*
+*Generated at: 2026-10-05 04:54 UTC*
 
-*Total leads: 33*
+*Total leads: 35*
+
+## Nox
+
+- Query: `chinese-ai-hiring`
+- Posted at: `2026-10-05T02:17:45.000Z`
+- Tweet: [2106931819362791489](https://x.com/Nox_alkimo/status/2106931819362791489)
+- External URL: https://x2-robot.jobs.feishu.cn/912130/position/7652271940312353078/detail
+- External title: N/A
+- Text: 【27届】3D重建算法工程师 at 校园招聘 — Python, PyTorch, Computer Vision. Apply: https://t.co/NveSF9AfUg
+
+## Nox
+
+- Query: `chinese-ai-hiring`
+- Posted at: `2026-10-04T22:17:45.000Z`
+- Tweet: [2106871421360083399](https://x.com/Nox_alkimo/status/2106871421360083399)
+- External URL: https://x2-robot.jobs.feishu.cn/912130/position/7672316359728040228/detail
+- External title: N/A
+- Text: 【27届】Vla/Wam触觉操作算法工程师 at 校园招聘 — PyTorch, CV, Robotics. Apply: https://t.co/ceRqVPyQ1C
 
 ## 空格.space
 
