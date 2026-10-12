@@ -1,8 +1,17 @@
 # Latest AI Job Leads From X
 
-*Generated at: 2026-10-05 04:54 UTC*
+*Generated at: 2026-10-12 05:15 UTC*
 
-*Total leads: 35*
+*Total leads: 36*
+
+## 若洪大叔
+
+- Query: `chinese-ai-hiring`
+- Posted at: `2026-10-11T14:42:04.000Z`
+- Tweet: [2109293460478140746](https://x.com/RohoQinAI/status/2109293460478140746)
+- External URL: https://x.com/i/article/2109288473702400000
+- External title: N/A
+- Text: 这篇写的是设计师怎么转 FDE，因为我自己是设计出身。但这条路不挑岗位。产品、运营、测试、售前、客服，只要你跟用户和业务打交道，懂现场、会沟通、能把事情推到底，FDE 七成的活你已经会了。剩下三成是代码、大模型应用和工程化，按文中的三次升级去补。 https://t.co/yYcnsnkXaI
 
 ## Nox
 
