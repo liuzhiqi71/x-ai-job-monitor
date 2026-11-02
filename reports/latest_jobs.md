@@ -1,8 +1,26 @@
 # Latest AI Job Leads From X
 
-*Generated at: 2026-10-26 04:03 UTC*
+*Generated at: 2026-11-02 05:17 UTC*
 
-*Total leads: 36*
+*Total leads: 38*
+
+## kingoe
+
+- Query: `chinese-ai-hiring`
+- Posted at: `2026-11-02T03:46:42.000Z`
+- Tweet: [2117101067511222309](https://x.com/kingoe19071508/status/2117101067511222309)
+- External URL: https://x.com/i/article/2117100629525188608
+- External title: N/A
+- Text: AI是程序员转型中增长最快的方向，却只占全部去向的6%。真正吸收大多数人的，仍是运维、架构、项目管理等传统或相邻岗位。 https://t.co/P8KjI9jfTY
+
+## Nox
+
+- Query: `chinese-ai-hiring`
+- Posted at: `2026-11-02T02:09:00.000Z`
+- Tweet: [2117076478890266783](https://x.com/Nox_alkimo/status/2117076478890266783)
+- External URL: https://x2-robot.jobs.feishu.cn/912130/position/7669755359267211574/detail
+- External title: N/A
+- Text: 端侧 DevOps 实习生（机器人方向） at 校园招聘 — Python, Robotics. Apply: https://t.co/rpz1tiWzFn
 
 ## 若洪大叔
 
