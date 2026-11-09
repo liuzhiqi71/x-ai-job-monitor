@@ -1,8 +1,19 @@
 # Latest AI Job Leads From X
 
-*Generated at: 2026-11-02 05:17 UTC*
+*Generated at: 2026-11-09 05:32 UTC*
 
-*Total leads: 38*
+*Total leads: 39*
+
+## AI商业实战圈
+
+- Query: `chinese-ai-hiring`
+- Posted at: `2026-11-08T16:06:01.000Z`
+- Tweet: [2119461448636391613](https://x.com/HHeting96774/status/2119461448636391613)
+- External URL: https://x.com/i/article/2119458586837561344
+- External title: N/A
+- Text: 未来5到10年，哪些产业值得长期研究？
+
+这次把10个方向拆到公司样本、岗位和具体交付环节。机器人看控制与集成，储能看项目与运维，出海看品类和毛利。公司与资料链接放在文末，方便继续查。 https://t.co/7mDXm5PWPN
 
 ## kingoe
 
