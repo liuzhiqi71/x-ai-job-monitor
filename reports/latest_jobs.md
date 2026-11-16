@@ -1,8 +1,37 @@
 # Latest AI Job Leads From X
 
-*Generated at: 2026-11-09 05:32 UTC*
+*Generated at: 2026-11-16 05:41 UTC*
 
-*Total leads: 39*
+*Total leads: 41*
+
+## TT3Labs | 远程招聘 Remote Jobs
+
+- Query: `chinese-ai-hiring`
+- Posted at: `2026-11-16T04:27:21.000Z`
+- Tweet: [2122184723438895133](https://x.com/TT3Labs/status/2122184723438895133)
+- External URL: https://tt3labs.com
+- External title: N/A
+- Text: TT3Labs 11.16｜本周8 个远程精选岗位
+
+这期有 AIGC 视频导演、AI 短剧剧本审核员、韩国和越南市场 BD，还有反洗钱分析师和区块链工程师。
+
+看完整岗位，免费投递
+https://t.co/LvjJLSTcdX https://t.co/MhMo4WDrbm
+
+## AI牛
+
+- Query: `chinese-ai-hiring`
+- Posted at: `2026-11-15T12:05:53.000Z`
+- Tweet: [2121937730414522770](https://x.com/honrta/status/2121937730414522770)
+- External URL: https://github.com/kaixinit/wensi-posthub
+- External title: N/A
+- Text: 最近做了个消息中转与分发平台，叫「文思邮差」📮
+
+应用接一次 API，就能分发到 QQ 机器人、微信 ClawBot 和邮箱，各上游独立配置自己的渠道。
+
+支持定时发送、失败重试和投递记录。Python 开发，适配 Windows 11、Debian、Ubuntu。
+
+https://t.co/MzEIYhhbyK https://t.co/rSKLR6Bdsk
 
 ## AI商业实战圈
 
