@@ -1,8 +1,40 @@
 # Latest AI Job Leads From X
 
-*Generated at: 2026-11-16 05:41 UTC*
+*Generated at: 2026-11-23 06:45 UTC*
 
-*Total leads: 41*
+*Total leads: 43*
+
+## Ave.ai
+
+- Query: `chinese-ai-hiring`
+- Posted at: `2026-11-23T04:25:43.000Z`
+- Tweet: [2124721028828147826](https://x.com/aveai_info/status/2124721028828147826)
+- External URL: https://Ave.ai
+- External title: N/A
+- Text: https://t.co/QoStyL5a38 招聘公告
+
+岗位：运营 FDE（链上交易 / AI Agent 方向）
+
+这不是传统的运营策划岗，而是用 AI Agent 把运营需求直接做成系统并上线。
+
+岗位职责：
+1、使用 Claude Code、Codex 等 AI Agent，把运营、活动、数据需求做成系统、页面、Bot 和自动化流程，从需求到上线独立闭环。 https://t.co/tuOz5QNb7f
+
+## 泛函
+
+- Query: `chinese-ai-hiring`
+- Posted at: `2026-11-23T04:16:02.000Z`
+- Tweet: [2124718593795412191](https://x.com/jingchngch1/status/2124718593795412191)
+- External URL: https://www.jelabs.ai/
+- External title: N/A
+- Text: 来帮合作团队招人🙋‍♂️
+薪资：200 元/天
+
+JE Labs 招人｜海外增长实习生（可转正）
+实习（可转正）｜工作地点：北京市海淀区
+岗位定位：用数据和实验，让好产品在全球市场被更多人看见
+
+JE Labs（https://t.co/8o2CuW1nJE）是一家专注于人工智能及前沿科技领域的全球化营销与增长团队，已为 100
 
 ## TT3Labs | 远程招聘 Remote Jobs
 
